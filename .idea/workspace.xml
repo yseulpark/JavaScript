@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1cf5c202-43db-45d9-9494-e39d2b4634b5" name="Changes" comment="module2">
+      <change afterPath="$PROJECT_DIR$/Module 2/array.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 2/array.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JavaScript.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yseulpark&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yseulpark/JavaScript.git&quot;,
+    &quot;accountId&quot;: &quot;e8c5037c-9d0b-4834-bab1-c6bed9b2a060&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3C1tMRVVFLT8EIpfiHzBg3fAxWv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/yeseul/PycharmProjects/JavaScript&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Module 2/exercise1" />
+      <recent name="$PROJECT_DIR$/Module 1" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.308" />
+        <option value="bundled-python-sdk-ca5e2b39c7df-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.308" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cf5c202-43db-45d9-9494-e39d2b4634b5" name="Changes" comment="" />
+      <created>1775564855680</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775564855680</updated>
+      <workItem from="1775564856749" duration="13830000" />
+      <workItem from="1776281221724" duration="650000" />
+    </task>
+    <task id="LOCAL-00001" summary="java">
+      <option name="closed" value="true" />
+      <created>1775564884451</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1775564884451</updated>
+    </task>
+    <task id="LOCAL-00002" summary="module1">
+      <option name="closed" value="true" />
+      <created>1775564964020</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1775564964020</updated>
+    </task>
+    <task id="LOCAL-00003" summary="module1">
+      <option name="closed" value="true" />
+      <created>1775565061335</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1775565061335</updated>
+    </task>
+    <task id="LOCAL-00004" summary="module1">
+      <option name="closed" value="true" />
+      <created>1775568222052</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1775568222052</updated>
+    </task>
+    <task id="LOCAL-00005" summary="module1">
+      <option name="closed" value="true" />
+      <created>1775569142048</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1775569142048</updated>
+    </task>
+    <task id="LOCAL-00006" summary="module1">
+      <option name="closed" value="true" />
+      <created>1775570122560</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1775570122560</updated>
+    </task>
+    <task id="LOCAL-00007" summary="module2">
+      <option name="closed" value="true" />
+      <created>1776174216652</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1776174216652</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java" />
+    <MESSAGE value="module1" />
+    <MESSAGE value="module2" />
+    <option name="LAST_COMMIT_MESSAGE" value="module2" />
+  </component>
+</project>
